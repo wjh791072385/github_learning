@@ -4,4 +4,4 @@ git基本命令:
 
 git分支feature-A
 - fix-B
-- ffeature-C
+- feature-C
