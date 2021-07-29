@@ -2,7 +2,7 @@
 ###### git基本教程
 git基本命令:
 git add <filename>  //将文件添加到暂存区
-
+git commit -m "描述内容"
 
 git分支feature-A
 - fix-B
